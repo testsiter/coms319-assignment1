@@ -48,3 +48,10 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+.card {
+  text-shadow: none;
+  background-color: #212529;
+  box-shadow: none;
+  color: #fff;
+}
